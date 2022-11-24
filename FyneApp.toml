@@ -1,0 +1,8 @@
+Website = "https://luckykeeper.site"
+
+[Details]
+  Icon = "plujs_icon.ico"
+  Name = "pluJs"
+  ID = "plujs.luckykeeper.site"
+  Version = "1.0.0"
+  Build = 1
