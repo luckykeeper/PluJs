@@ -5,7 +5,7 @@
 
 ## 注意事项
 
-PluJs 仅适用于 **React 版前端 Plumemo（theme-react-sakura 主题，非 ssr 版本）**或通过一键脚本（包含使用[我的 Docker 镜像](https://github.com/luckykeeper/docker_plumemo)）安装的 Plumemo ，在其它主题的 Plumemo 使用可能会导致未知问题！使用前请知悉
+PluJs 仅适用于 React 版前端 Plumemo（theme-react-sakura 主题，非 ssr 版本）或通过一键脚本（包含使用[我的 Docker 镜像](https://github.com/luckykeeper/docker_plumemo)）安装的 Plumemo ，在其它主题的 Plumemo 使用可能会导致未知问题！使用前请知悉
 
 项目基于某个内部项目略加改动而来，里面可能会有奇奇怪怪的文字说明，懒得大改了（#查询你游玩家成分）2333
 

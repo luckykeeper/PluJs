@@ -378,7 +378,7 @@ func PathExists(path string) (bool, error) {
 
 // 库存界面
 func database() {
-	ContentTitle = widget.NewLabel("memo酱吃不下了啦！o(*≧▽≦)ツ┏━┓")
+	ContentTitle = widget.NewLabel("momo酱吃不下了啦！o(*≧▽≦)ツ┏━┓")
 	ContentTitleBox = container.New(layout.NewVBoxLayout(), ContentTitle, widget.NewSeparator())
 
 	addImageIcon := canvas.NewImageFromFile("./icon/change.jpg")
@@ -386,7 +386,7 @@ func database() {
 	addImageIcon.SetMinSize(fyne.NewSize(265.5, 375.5))
 
 	Content = container.NewCenter(container.NewVBox(
-		widget.NewLabelWithStyle("memo酱吃不下了啦！", fyne.TextAlignCenter, fyne.TextStyle{Bold: true}),
+		widget.NewLabelWithStyle("momo酱吃不下了啦！", fyne.TextAlignCenter, fyne.TextStyle{Bold: true}),
 		container.NewHBox(
 			widget.NewButtonWithIcon("给我恰！",
 				theme.DownloadIcon(),
